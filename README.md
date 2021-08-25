@@ -9,7 +9,7 @@ Repository for BME 547 - Medical Software Design
 
 * Data will include:
 * Patient Name
-	*First Name
-	*Last Name
++First Name
++Last Name
 * Date of Birth
 * Blood Type
