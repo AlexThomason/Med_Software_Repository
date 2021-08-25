@@ -11,4 +11,5 @@ Repository for BME 547 - Medical Software Design
 * Patient Name
 	*First Name
 	*Last Name
-
+* Date of Birth
+* Blood Type
